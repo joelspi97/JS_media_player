@@ -1,2 +1,2 @@
 # JS_media_player
-Media player proyect for practice
+Media player project for practice
